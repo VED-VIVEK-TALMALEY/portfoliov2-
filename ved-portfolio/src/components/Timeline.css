@@ -1,0 +1,23 @@
+.timeline {
+  border-left: 3px solid #34495e;
+  padding-left: 1rem;
+  margin: 1rem 0;
+}
+
+.timeline-event {
+  margin-bottom: 1.5rem;
+}
+
+.timeline-event h4 {
+  margin: 0;
+  color: #0080ff;
+}
+
+.timeline-event span {
+  font-size: 0.85rem;
+  color: #00eeff;
+}
+
+.timeline-event p {
+  margin: 0.3rem 0 0;
+}

@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #ffffff; /* use visible text color */
+  background-color: black;
+}
+.bgg{
+  background-color: #000; 
+  height: 240px;
+  width: 100%;
+}
+#root{
+  background-color: #000;
+}
