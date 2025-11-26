@@ -5,16 +5,17 @@ body {
 .App {
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 0px;
   font-family: Arial, sans-serif;
   color: #ffffff; /* use visible text color */
   background-color: black;
 }
+/* Keep global-level rules here. Per-component styles (like .bgg) live in App.css to avoid conflicts. */
+
 .bgg{
-  background-color: #000; 
+  background-color: #060606; 
   height: 240px;
   width: 100%;
-}
-#root{
-  background-color: #000;
+  border:120px ;
+  border-color: #ffffff;
 }
